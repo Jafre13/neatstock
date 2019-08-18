@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/neatstock.iml" filepath="$PROJECT_DIR$/.idea/neatstock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonneat/.idea/pythonneat.iml" filepath="$PROJECT_DIR$/../pythonneat/.idea/pythonneat.iml" />
     </modules>
   </component>
 </project>
