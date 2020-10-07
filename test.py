@@ -1,1 +1,1 @@
-Helloworld. this is a cruel a world
+print("Helloworld. this is a cruel a world")
